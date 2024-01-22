@@ -1,5 +1,5 @@
 # csc134
 
-Brenda Sustaita
+My name is Brenda Sustaita.
 
-Associates in Science
+I am at FTCC pursuing my Associates degree in Science.
