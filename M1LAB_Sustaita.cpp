@@ -14,7 +14,7 @@ int main()
     // Simulate selling apples
     // Set up variables (nouns)
     string name = "Sustaita";
-    int num_apples = 2;
+    int num_apples = 20;
     double price_per_apple = 0.25;
 
     // Do the calculations
