@@ -7,5 +7,5 @@
 using namespace std;
 
 int main () {
-    // Introduce yourself
     cout << "Hello World!" <<endl;
+}
