@@ -28,13 +28,5 @@ int main (){
     else if (grade <= 59){
         cout << "Your grade is an F." << endl;
     }
-    
-
-
-    
-    
-    
-    
-    
     return 0;
 }
